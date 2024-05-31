@@ -1,0 +1,5 @@
+
+numbers = [3, 8, 1, 5, 2]
+sorted_numbers = sorted(numbers, reverse=True)
+print("Отсортированный список по убыванию:", sorted_numbers)
+
